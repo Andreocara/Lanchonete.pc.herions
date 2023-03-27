@@ -9,6 +9,8 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    width: 1365px;
+    height: 250px;
 }
 
 .cabecalho-imagem{
