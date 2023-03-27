@@ -4,7 +4,7 @@
 }
 
 header {
-    background-color: #4b82d4;
+    background-color: #022d6d;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -13,8 +13,4 @@ header {
 
 .cabecalho-imagem{
     width: 20;
-}
-
-.cabecalho-lista-item{
-    display: inline-block;
 }
