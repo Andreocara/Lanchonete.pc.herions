@@ -23,3 +23,11 @@ header {
     font-size: 24px;
     display: inline-block;
 }
+
+.Sobre-a-lanchonete{
+    background-image: linear-gradient(#5b9cfd,#0ccdf8);;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
