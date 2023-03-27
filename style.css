@@ -4,15 +4,19 @@
 }
 
 header {
-    background-color: #408af8;
+    background-color: #5b9cfd;
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 1365px;
-    height: 250px;
+    width: 1920px;
+    height: 200px;
 }
 
 .cabecalho-imagem{
     width: 300px;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
 }
