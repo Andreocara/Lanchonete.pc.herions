@@ -25,9 +25,17 @@ header {
 }
 
 .Sobre-a-lanchonete{
-    background-image: linear-gradient(#5b9cfd,#0ccdf8);;
+    background-image: linear-gradient(#5b9cfd,#05a2c5);;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+}
+
+.lanchonete-imagem{
+    width: 25%;
+}
+
+.lanche-div-conteudo{
+    width: 35%;
 }
