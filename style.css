@@ -22,14 +22,16 @@ header {
     margin: 0 16px;
     font-size: 24px;
     display: inline-block;
+    font-family: Arial;
 }
 
 .Sobre-a-lanchonete{
-    background-image: linear-gradient(#5b9cfd,#05a2c5);;
+    background-image: linear-gradient(#5b9cfd,#02667c);;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .lanchonete-imagem{
@@ -38,4 +40,8 @@ header {
 
 .lanche-div-conteudo{
     width: 35%;
+}
+
+.titulo-lanchonete{
+    padding: 24px 0;
 }
