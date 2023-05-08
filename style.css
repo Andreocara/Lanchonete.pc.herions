@@ -26,6 +26,8 @@ header {
 }
 
 .Sobre-a-lanchonete{
+    display: grid;
+    grid-template-columns: 50% 50%
     background-image: linear-gradient(#5b9cfd,#02667c);;
     display: flex;
     justify-content: space-around;
